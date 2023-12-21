@@ -6,23 +6,9 @@
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss21/bachelor/b4-manifesto/concept/</loc>
   </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/features/</loc>
+    <loc>https://gefei.github.io/showtime-website/ws23/bachelor/b0-template/features/</loc>
   </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b3-shop-gpt/features/</loc>
-  </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b4-visualagenda/features/</loc>
-  </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b5-spellweaver/features/</loc>
-  </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b6-security-audit-bot/features/</loc>
-  </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/master/m2-mentist/features/</loc>
-  </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/master/m3-intu/features/</loc>
-  </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/master/m5-quizzer-ai/features/</loc>
-  </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/master/m6-vamx/features/</loc>
+    <loc>https://gefei.github.io/showtime-website/ws23/master/m0-template/features/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss21/bachelor/b1-strollr-project/features/</loc>
   </url><url>
@@ -57,6 +43,24 @@
     <loc>https://gefei.github.io/showtime-website/ss22/master/m3-geolocation/_features/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss22/master/m6-allmende-2/features/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b2-i-cant-c-sharp/features/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b3-shop-gpt/features/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b4-visual-agenda/features/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b5-spellweaver/features/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b6-security-audit-bot/features/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/master/m2-mentist/features/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/master/m3-intu/features/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/master/m5-quizzer-ai/features/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/master/m6-vamx/features/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ws20/bachelor/b1-kiss/features/</loc>
   </url><url>
@@ -106,11 +110,17 @@
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss23/master/m2-mentist/future/</loc>
   </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/process/</loc>
+    <loc>https://gefei.github.io/showtime-website/ws23/bachelor/b0-template/process/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ws23/master/m0-template/process/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss22/master/m5-adipositas-prevention/process/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b2-i-cant-c-sharp/process/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b3-shop-gpt/process/</loc>
   </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b4-visualagenda/process/</loc>
+    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b4-visual-agenda/process/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b5-spellweaver/process/</loc>
   </url><url>
@@ -118,11 +128,7 @@
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss23/master/m2-mentist/process/</loc>
   </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/master/m3-intu/process/</loc>
-  </url><url>
     <loc>https://gefei.github.io/showtime-website/ss23/master/m5-quizzer-ai/process/</loc>
-  </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss22/master/m5-adipositas-prevention/process/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ws21/master/m2-a-better-spotify/process/</loc>
   </url><url>
@@ -134,11 +140,17 @@
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ws22/master/m7-valit/process/</loc>
   </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/techstack/</loc>
+    <loc>https://gefei.github.io/showtime-website/ws23/bachelor/b0-template/techstack/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ws23/master/m0-template/techstack/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss20/master/m3-mobile-image-organization/tech-stack/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b2-i-cant-c-sharp/techstack/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b3-shop-gpt/techstack/</loc>
   </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b4-visualagenda/techstack/</loc>
+    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b4-visual-agenda/techstack/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b5-spellweaver/techstack/</loc>
   </url><url>
@@ -146,19 +158,17 @@
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss23/master/m2-mentist/techstack/</loc>
   </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/master/m3-intu/techstack/</loc>
-  </url><url>
     <loc>https://gefei.github.io/showtime-website/ss23/master/m5-quizzer-ai/techstack/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss23/master/m6-vamx/techstack/</loc>
-  </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss20/master/m3-mobile-image-organization/tech-stack/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ws22/bachelor/b2-mobile-companion-app/techstack/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ws22/bachelor/b4-rearchitecting-services/techstack/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ws22/bachelor/b6-book-reading-club-applikation/teckstack/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b2-i-cant-c-sharp/team/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss20/bachelor/b1-hexarcade/about-us/</loc>
   </url><url>
@@ -172,9 +182,9 @@
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss23/master/m6-vamx/process/</loc>
   </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/master/m4-shop-gpt/features/</loc>
-  </url><url>
     <loc>https://gefei.github.io/showtime-website/ss22/master/m5-adipositas-prevention/features/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/master/m4-shop-gpt/features/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ws21/master/m2-a-better-spotify/features/</loc>
   </url><url>
@@ -185,8 +195,6 @@
     <loc>https://gefei.github.io/showtime-website/ws22/master/m7-valit/features/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss20/bachelor/b1-hexarcade/idea-finding/</loc>
-  </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/master/m4-shop-gpt/process/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss21/bachelor/b1-strollr-project/process/</loc>
   </url><url>
@@ -219,6 +227,10 @@
     <loc>https://gefei.github.io/showtime-website/ss22/master/m2_4-fixit-communication-is-everything/process/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss22/master/m3-geolocation/_process/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/master/m3-intu/process/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/master/m4-shop-gpt/process/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ws20/bachelor/b1-kiss/process/</loc>
   </url><url>
@@ -260,9 +272,11 @@
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss20/master/m3-mobile-image-organization/gallery/</loc>
   </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/master/m4-shop-gpt/challenges/</loc>
-  </url><url>
     <loc>https://gefei.github.io/showtime-website/ss22/master/m5-adipositas-prevention/challenges/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/master/m3-intu/challenges/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/master/m4-shop-gpt/challenges/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ws21/master/m2-a-better-spotify/challenges/</loc>
   </url><url>
@@ -410,9 +424,11 @@
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss20/bachelor/b5-the-missing-tool-projekt/our-focus/</loc>
   </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/master/m4-shop-gpt/techstack/</loc>
-  </url><url>
     <loc>https://gefei.github.io/showtime-website/ss22/master/m5-adipositas-prevention/tech-stack/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/master/m3-intu/techstack/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/master/m4-shop-gpt/techstack/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ws21/master/m2-a-better-spotify/tech-stack/</loc>
   </url><url>
@@ -422,11 +438,13 @@
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ws21/bachelor/b1/use-cases/</loc>
   </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss22/master/m5-adipositas-prevention/future/</loc>
+  </url><url>
     <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b6-security-audit-bot/future/</loc>
   </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/master/m4-shop-gpt/future/</loc>
+    <loc>https://gefei.github.io/showtime-website/ss23/master/m3-intu/future/</loc>
   </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss22/master/m5-adipositas-prevention/future/</loc>
+    <loc>https://gefei.github.io/showtime-website/ss23/master/m4-shop-gpt/future/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ws21/master/m2-a-better-spotify/future/</loc>
   </url><url>
@@ -434,11 +452,11 @@
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ws22/master/m7-valit/future/</loc>
   </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b6-security-audit-bot/team/</loc>
-  </url><url>
     <loc>https://gefei.github.io/showtime-website/ss21/master/m2-something-unreal/_team/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss22/master/m1-could-it-be-more-unreal/_team/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b6-security-audit-bot/team/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss20/bachelor/b5-the-missing-tool-projekt/tech-stack/</loc>
   </url><url>
@@ -470,16 +488,6 @@
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss21/</loc>
   </url><url>
-    <loc>https://gefei.github.io/showtime-website/ws21/master/</loc>
-  </url><url>
-    <loc>https://gefei.github.io/showtime-website/ws21/master/m2-a-better-spotify/</loc>
-  </url><url>
-    <loc>https://gefei.github.io/showtime-website/ws21/master/m6-haptic-globe/</loc>
-  </url><url>
-    <loc>https://gefei.github.io/showtime-website/ws21/master/m3-intelligentes-bilanzkreismanagement/</loc>
-  </url><url>
-    <loc>https://gefei.github.io/showtime-website/ws21/master/m4-lcvd/</loc>
-  </url><url>
     <loc>https://gefei.github.io/showtime-website/ws21/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss22/</loc>
@@ -490,9 +498,9 @@
   </url><url>
     <loc>https://gefei.github.io/showtime-website/</loc>
   </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/</loc>
+    <loc>https://gefei.github.io/showtime-website/ws23/bachelor/</loc>
   </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/master/</loc>
+    <loc>https://gefei.github.io/showtime-website/ws23/master/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss20/bachelor/</loc>
   </url><url>
@@ -506,15 +514,23 @@
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss22/master/</loc>
   </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/master/</loc>
+  </url><url>
     <loc>https://gefei.github.io/showtime-website/ws20/bachelor/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ws20/master/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ws21/bachelor/</loc>
   </url><url>
+    <loc>https://gefei.github.io/showtime-website/ws21/master/</loc>
+  </url><url>
     <loc>https://gefei.github.io/showtime-website/ws22/bachelor/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ws22/master/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ws21/master/m2-a-better-spotify/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ws20/bachelor/b3-a-spirit-tale/</loc>
   </url><url>
@@ -531,6 +547,8 @@
     <loc>https://gefei.github.io/showtime-website/ws20/master/m2-leistungstracker/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ws22/bachelor/b2-mobile-companion-app/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ws23/bachelor/b0-template/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss20/bachelor/b3-private-investors/behind-the-scenes/</loc>
   </url><url>
@@ -584,11 +602,15 @@
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss21/bachelor/b3-dollar-game/</loc>
   </url><url>
+    <loc>https://gefei.github.io/showtime-website/ws21/master/m6-haptic-globe/</loc>
+  </url><url>
     <loc>https://gefei.github.io/showtime-website/ss22/bachelor/b5-krisen-und-katastrophenmanagement/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss20/bachelor/b1-hexarcade/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ws22/master/m2-mmo-hungrygames/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b2-i-cant-c-sharp/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/zoom-help/</loc>
   </url><url>
@@ -596,17 +618,21 @@
   </url><url>
     <loc>https://gefei.github.io/showtime-website/imprint/</loc>
   </url><url>
+    <loc>https://gefei.github.io/showtime-website/ws21/master/m3-intelligentes-bilanzkreismanagement/</loc>
+  </url><url>
     <loc>https://gefei.github.io/showtime-website/ws22/bachelor/b5-szenische-interaktion/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss23/master/m3-intu/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ws20/bachelor/b1-kiss/</loc>
   </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b2-konzentrationstraining-durch-minispiele/</loc>
+    <loc>https://gefei.github.io/showtime-website/ws21/master/m4-lcvd/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss21/bachelor/b4-manifesto/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss20/master/m1-unhooked/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ws23/master/m0-template/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss23/master/m2-mentist/</loc>
   </url><url>
@@ -623,6 +649,8 @@
     <loc>https://gefei.github.io/showtime-website/privacy-policy/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss20/bachelor/b3-private-investors/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/archive/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/projects/</loc>
   </url><url>
@@ -676,13 +704,15 @@
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss20/master/m1-unhooked/videos/</loc>
   </url><url>
-    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b4-visualagenda/</loc>
+    <loc>https://gefei.github.io/showtime-website/ss23/bachelor/b4-visual-agenda/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss20/master/m4-svac/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss20/bachelor/b2-vrforfuture/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss22/master/m3-geolocation/</loc>
+  </url><url>
+    <loc>https://gefei.github.io/showtime-website/ws23/</loc>
   </url><url>
     <loc>https://gefei.github.io/showtime-website/ss20/master/m5-youcan/</loc>
   </url><url>
