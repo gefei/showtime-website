@@ -8,15 +8,6 @@
     <language>de-de</language><atom:link href="https://gefei.github.io/showtime-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Challenges</title>
-      <link>https://gefei.github.io/showtime-website/ws23/master/m3-lep/challenges/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gefei.github.io/showtime-website/ws23/master/m3-lep/challenges/</guid>
-      <description>UI In the initial stages of development, one key challenge our team faced was designing a user interface (UI) that effectively accommodates the input of constraints and preferences from teachers. Creating a user-friendly and simple UI for teachers to specify their requirements posed a significant hurdle, as it required striking a balance between complexity and user-friendliness. We undertook extensive brainstorming sessions ensuring that it could efficiently capture the nuanced constraints and preferences without overwhelming the teacher.</description>
-    </item>
-    
-    <item>
-      <title>Challenges</title>
       <link>https://gefei.github.io/showtime-website/ss23/master/m2-mentist/challenges/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -32,6 +23,15 @@
       <guid>https://gefei.github.io/showtime-website/ss21/bachelor/b4-manifesto/concept/</guid>
       <description>Concept The Marc Sinan Company shared the main idea with us: how the inner room of a church should be turned into an interactive area where one has to work together with the others; the event should act as a memorial to the victims of the National Socialist Underground murders.
 The concept is the project foundation and was developed in collaboration and coordination with the Marc Sinan Company. An important point here was dividing the whole act into substeps to define the possible states of it.</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>https://gefei.github.io/showtime-website/ws23/bachelor/b1-peek/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gefei.github.io/showtime-website/ws23/bachelor/b1-peek/features/</guid>
+      <description>Features Visualisation through Charts Each Key existing in the documents of your collection receives their own chart window. In it, all the values of that key from the documents will be displayed in an aggregated way. Depending on the type of the key that aggregation may be in form of a pie chart, bar chart or list. That gives you a quick overview of the existing values and their occurrences.</description>
     </item>
     
     <item>
@@ -70,7 +70,7 @@ MQTT Communication takes place via MQTT, an open network protocol for machine-to
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gefei.github.io/showtime-website/ws23/master/m3-lep/features/</guid>
-      <description> Automated planning for semester type &amp;amp; course of study Solve schedule individual course of study with selected semester type. Solve schedule for all courses of study with selected semester type. → Reduce the time of manual planning Admin/Teacher role Separate role as in real scenario, each role has its own permission to use certain features of the app Features for teacher Teachers can log in and have an overview of their modules and schedule Can select their time availabilities, and other preferences Can select their committee activities and mandatory events Can edit module configurations, such as adding groups and specifying preferred rooms Features for admin Admins can create schedules in one click Can see schedule of a course of study or per semester Other features for both roles English and German language settings Available rooms information of the FB </description>
+      <description>Efficient automated semester planning With just a few clicks, faculty staff can effortlessly generate a complete schedule for each course of study throughout the entire semester. Taking into account factors from module duration and rhythm to teacher&amp;rsquo;s mandatory events, availability, and preferences, LEP utilizes Timefold to makes sure everything fits together well, making planning simple and hassle-free. Role-Based UI for seamless collaboration Say goodbye to mailing back and forth spreadsheets!</description>
     </item>
     
     <item>
@@ -552,21 +552,21 @@ Our brainstorming process As interesting as all of those ideas would have been, 
     
     <item>
       <title>Future</title>
-      <link>https://gefei.github.io/showtime-website/ws23/master/m3-lep/future/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gefei.github.io/showtime-website/ws23/master/m3-lep/future/</guid>
-      <description> Future Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
-    </item>
-    
-    <item>
-      <title>Future</title>
       <link>https://gefei.github.io/showtime-website/ss23/master/m2-mentist/future/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gefei.github.io/showtime-website/ss23/master/m2-mentist/future/</guid>
       <description>Future Improved and high-quality chatbot Through advancements in data science and machine learning, the chatbot&amp;rsquo;s ability to analyze and provide personalized support will be greatly improved. The chatbot will be equipped to offer tailored recommendations and coping strategies based on individual user patterns, fostering a deeper understanding of each user&amp;rsquo;s unique needs.
 Personalized needs with various trackers Different trackers will be developed for users to set them individually according to their own preferences.</description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>https://gefei.github.io/showtime-website/ws23/bachelor/b1-peek/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gefei.github.io/showtime-website/ws23/bachelor/b1-peek/process/</guid>
+      <description>Process Since our project had a lot do to with displaying data so it&amp;rsquo;s easy to understand, we first created a concept of what our application should look like in Figma. The user should be able to navigate the interface easily, without immediately being overwhelmed. To do that, we decided that the application should have a simple login interface and once logged in, the user should be presented with only the necessary options first, navigating deeper into the interface as needed.</description>
     </item>
     
     <item>
@@ -585,15 +585,6 @@ Personalized needs with various trackers Different trackers will be developed fo
       
       <guid>https://gefei.github.io/showtime-website/ws23/master/m0-template/process/</guid>
       <description> Process Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
-    </item>
-    
-    <item>
-      <title>Process</title>
-      <link>https://gefei.github.io/showtime-website/ws23/master/m3-lep/process/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gefei.github.io/showtime-website/ws23/master/m3-lep/process/</guid>
-      <description>Research In the project&amp;rsquo;s initial phase, we conducted thorough research to establish a robust foundation for our web application. This involved exploring diverse technology stacks, evaluating programming languages, databases, and frameworks. We studied similar applications for inspiration and best practices. The implementation of timetable and schedule-solving algorithms was a key focus, with a careful assessment of existing solutions. We directly engaged with the planning team, gaining insights into manual planning methods and specific requirements.</description>
     </item>
     
     <item>
@@ -731,6 +722,15 @@ The process started with a brainstorming session where all potential requirement
     
     <item>
       <title>Tech Stack</title>
+      <link>https://gefei.github.io/showtime-website/ws23/bachelor/b1-peek/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gefei.github.io/showtime-website/ws23/bachelor/b1-peek/techstack/</guid>
+      <description> Communication Discord Zoom Planning Notion Figma Programming Visual Studio Code React NextJS ExpressJS GitHub Utility MongoDB Docker Image Sources https://es.logodownload.org/discord-logo/ https://es.logodownload.org/zoom-logo/ https://logos-download.com/40130-notion-app-logo-download.html https://es.logodownload.org/?s=figma https://logospng.org/logo-visual-studio-code/ https://logos-download.com/9747-react-logo-download.html https://creazilla.com/nodes/3244252-nextjs-icon https://www.mementotech.in/nodejs-development-company-rajkot.html https://logodix.com/github-resume https://www.kindpng.com/imgv/hhJbRxJ_mongodb-logo-png-transparent-png/ https://iconduck.com/icons/94225/docker-icon </description>
+    </item>
+    
+    <item>
+      <title>Tech Stack</title>
       <link>https://gefei.github.io/showtime-website/ws23/bachelor/b2-mobile-multitouch-multiplayer/tech-stack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -757,15 +757,6 @@ To see our progress visually, we created a lively Miro board connected to our Ga
       <description>Organisation and Communication We used Mattermost for our internal communication and for issue tracking.
 Mattermost Development HoloLens To develop the AR/XR App that is running on the HoloLens 2 we used Visual Studio (Code) and Unity with MRTK2.
 Programming Language: C# Raspberry The Raspberry Pi runs the Debian Raspberry Distribution and is the communication middleware. It serves as the MQTT broker and the Wi-Fi hotspot that the Arduino and HoloLens connect too.</description>
-    </item>
-    
-    <item>
-      <title>Tech Stack</title>
-      <link>https://gefei.github.io/showtime-website/ws23/master/m3-lep/techstack/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gefei.github.io/showtime-website/ws23/master/m3-lep/techstack/</guid>
-      <description>App Development: Frontend: ReactJS &amp;amp; TypeScript: Our core frontend framework, enabling us to build a dynamic, interactive user interface with type-checking for a reliable and scalable application. React-Bootstrap: Implemented for a uniform look across the web app, ensuring a good user experience with pre-built design patterns and components. CSS Modules: Employed to locally scope CSS by automatically creating a unique class name for each style, ensuring that our styles are consistent and do not conflict with those in other parts of the application.</description>
     </item>
     
     <item>
@@ -1075,11 +1066,31 @@ Recherche Wir hatten uns bereits früh darauf geeinigt, dass das Spiel auf Smart
     
     <item>
       <title>Process</title>
+      <link>https://gefei.github.io/showtime-website/ws23/bachelor/b5-smartlibrary/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gefei.github.io/showtime-website/ws23/bachelor/b5-smartlibrary/process/</guid>
+      <description>Process We dedicated initial time to conceptualising the idea for the plugin, exploring its potential impact and benefits. This involved learning from Moodle Academy about building Moodle plugins and creating first drafts to outline key functionalities.
+With a clearer vision, we strategically divided the overall idea into smaller, manageable tasks. Each task was designed to contribute to the overarching goal of the plugin.
+Adopting agile methodologies, we embraced a collaborative and iterative approach.</description>
+    </item>
+    
+    <item>
+      <title>Process</title>
       <link>https://gefei.github.io/showtime-website/ws23/master/m1-somethinar/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gefei.github.io/showtime-website/ws23/master/m1-somethinar/process/</guid>
       <description>Collecting ideas At the beginning of our project, we had a clear goal in mind: to create a game using the Meta Quest 3 headsets provided by HTW, with a focus on multiplayer elements and mixed reality features. To get our project off the ground, we started with some hands-on exploration. We tested various games that were compatible with the Quest 3, and we even took a trip to Cosmic.</description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>https://gefei.github.io/showtime-website/ws23/master/m3-lep/process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gefei.github.io/showtime-website/ws23/master/m3-lep/process/</guid>
+      <description>Research In the project&amp;rsquo;s initial phase, we conducted thorough research to establish a robust foundation for our web application. This involved exploring diverse technology stacks, evaluating programming languages, databases, and frameworks. We studied similar applications for inspiration and best practices. The implementation of timetable and schedule-solving algorithms was a key focus, with a careful assessment of existing solutions. We directly engaged with the planning team, gaining insights into manual planning methods and specific requirements.</description>
     </item>
     
     <item>
@@ -1420,17 +1431,6 @@ Some of our sources are:</description>
     </item>
     
     <item>
-      <title>Processs</title>
-      <link>https://gefei.github.io/showtime-website/ws23/bachelor/b5-smartlibrary/process/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gefei.github.io/showtime-website/ws23/bachelor/b5-smartlibrary/process/</guid>
-      <description>Process We dedicated initial time to conceptualising the idea for the plugin, exploring its potential impact and benefits. This involved learning from Moodle Academy about building Moodle plugins and creating first drafts to outline key functionalities.
-With a clearer vision, we strategically divided the overall idea into smaller, manageable tasks. Each task was designed to contribute to the overarching goal of the plugin.
-Adopting agile methodologies, we embraced a collaborative and iterative approach.</description>
-    </item>
-    
-    <item>
       <title>Product Vision</title>
       <link>https://gefei.github.io/showtime-website/ss20/bachelor/b5-the-missing-tool-projekt/product-vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1446,6 +1446,15 @@ Adopting agile methodologies, we embraced a collaborative and iterative approach
       
       <guid>https://gefei.github.io/showtime-website/ss20/master/m3-mobile-image-organization/gallery/</guid>
       <description> </description>
+    </item>
+    
+    <item>
+      <title>Challenges</title>
+      <link>https://gefei.github.io/showtime-website/ws23/master/m3-lep/challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gefei.github.io/showtime-website/ws23/master/m3-lep/challenges/</guid>
+      <description>UX-UI Design In the initial stages of development, one key challenge our team faced was designing a user interface (UI) that effectively accommodates the input of constraints and preferences from teachers. None of us is a professional UX-UI designer, therefore, creating an appealing and simple UI for admin or teachers to specify their requirements posed a significant hurdle, as it required striking a balance between complexity and user-friendliness. We undertook several brainstorming sessions ensuring that the UI could be used efficiently without overwhelming the user.</description>
     </item>
     
     <item>
@@ -2259,6 +2268,18 @@ Bobol&amp;#39;s Story To make the game more engaging, we introduced falling obje
     
     <item>
       <title>Tech Stack</title>
+      <link>https://gefei.github.io/showtime-website/ws23/master/m3-lep/techstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gefei.github.io/showtime-website/ws23/master/m3-lep/techstack/</guid>
+      <description>App Development Java &amp;amp; Spring Boot The backbone of our back-end, chosen for its powerful suite of features that simplify the development of stand-alone applications with minimal configuration.
+MongoDB Our NoSQL database of choice, allowing for flexible data schema and efficient, scalable storage of application data.
+TimeFold Integrated as the core engine for intelligent and automated scheduling, ensuring optimal allocation of resources and efficient timetabling.
+ReactJS &amp;amp; TypeScript Our core frontend framework, enabling us to build a dynamic, interactive user interface with type-checking for a reliable and scalable application.</description>
+    </item>
+    
+    <item>
+      <title>Tech Stack</title>
       <link>https://gefei.github.io/showtime-website/ss22/master/m5-adipositas-prevention/tech-stack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -2326,6 +2347,16 @@ Frontend Vue.js To build the web user interface, we felt that Vue.js was suited 
       <guid>https://gefei.github.io/showtime-website/ws21/bachelor/b1/use-cases/</guid>
       <description>Vibro2018 Use Case Case: Sam sees a video in which first a lion, then a lake is shown. Step 1 Sam enters “Lion“ into the Keyword Search.
 Step 2 He starts looking in the Result Map, but isn‘t satisfied with the results there so he thinks painting the lion would help. Sam goes to the Painting-Tool and starts drawing the lion. After he is done, he notes that the drawing didn‘t help him, so he hits UNDO.</description>
+    </item>
+    
+    <item>
+      <title>Future</title>
+      <link>https://gefei.github.io/showtime-website/ws23/master/m3-lep/future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gefei.github.io/showtime-website/ws23/master/m3-lep/future/</guid>
+      <description>Consideration of further Rhythm Types In our current version, we&amp;rsquo;ve handled regulations dealing with the most common rhythms, ensuring LEP factors in weekly and biweekly module planning for time collisions as well as special constraints.
+We understand that exceptions, demand more consideration and code restructuring in future to enhance adaptability. Especially one-time events like introductions at the start of semester have to be handled differently as well as unique faculty-specific rhythms like 3x6, where the module starts slightly delayed in the semester, initially five times every two weeks and then ends on a single day during the penultimate month of the semester.</description>
     </item>
     
     <item>
